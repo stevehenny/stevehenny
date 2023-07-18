@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephen Henstrom
-- 👀 Contributing to the open source network
-- 🌱 I’m currently studying Computuer Engineering
+- 👀 Contributing to the open-source network
+- 🌱 I’m currently studying Computer Engineering at BYU
 - 📫 How to reach me: stephen.henstrom@gmail.com
 
 <!---
